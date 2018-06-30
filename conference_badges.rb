@@ -1,5 +1,9 @@
 # Write your code here.
 
+attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
 def badge_maker(names)
-  names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
+  badge.each do |name|
+
 end
